@@ -18,12 +18,12 @@ organizations:
   url: "https://www.novi.com"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include Consumer Demand Modeling, Causal Inference, Blockchain.
+bio: My research interests include Consumer Demand Modeling, Causal Inference, Machine Learning.
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Consumer Demand Modeling
+- Causal Inference 
+- Machine Learning
 
 education:
   courses:
